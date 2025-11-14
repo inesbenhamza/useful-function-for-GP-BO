@@ -1,1 +1,1 @@
-# Surrogate-modelling-and-bayesian-optimisation-for-hyperparameter-search-
+# useful function from Gpytorch/botorch 
